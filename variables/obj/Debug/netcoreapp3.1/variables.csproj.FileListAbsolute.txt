@@ -1,0 +1,14 @@
+C:\Users\jay\Desktop\csharp27\variables\variables\bin\Debug\netcoreapp3.1\variables.exe
+C:\Users\jay\Desktop\csharp27\variables\variables\bin\Debug\netcoreapp3.1\variables.deps.json
+C:\Users\jay\Desktop\csharp27\variables\variables\bin\Debug\netcoreapp3.1\variables.runtimeconfig.json
+C:\Users\jay\Desktop\csharp27\variables\variables\bin\Debug\netcoreapp3.1\variables.runtimeconfig.dev.json
+C:\Users\jay\Desktop\csharp27\variables\variables\bin\Debug\netcoreapp3.1\variables.dll
+C:\Users\jay\Desktop\csharp27\variables\variables\bin\Debug\netcoreapp3.1\variables.pdb
+C:\Users\jay\Desktop\csharp27\variables\variables\obj\Debug\netcoreapp3.1\variables.csproj.AssemblyReference.cache
+C:\Users\jay\Desktop\csharp27\variables\variables\obj\Debug\netcoreapp3.1\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\Desktop\csharp27\variables\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfoInputs.cache
+C:\Users\jay\Desktop\csharp27\variables\variables\obj\Debug\netcoreapp3.1\variables.AssemblyInfo.cs
+C:\Users\jay\Desktop\csharp27\variables\variables\obj\Debug\netcoreapp3.1\variables.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\csharp27\variables\variables\obj\Debug\netcoreapp3.1\variables.dll
+C:\Users\jay\Desktop\csharp27\variables\variables\obj\Debug\netcoreapp3.1\variables.pdb
+C:\Users\jay\Desktop\csharp27\variables\variables\obj\Debug\netcoreapp3.1\variables.genruntimeconfig.cache
